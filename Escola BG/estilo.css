@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+}
+button{
+    color:whitesmoke;
+    background-color:black;
+    border: 2px solid rgb(133, 128, 128);
+    font-family:monospace;
+    font-size: 20px;
+    border-radius:10px;
+}
+button:hover{
+    color:black;
+    background-color:whitesmoke;
+    border: 2px solid black;
+    transition: all 0.4s;
+    transform: 1.0;
+}
+form{
+    border-radius: 50px;
+}
